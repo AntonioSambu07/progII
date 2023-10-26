@@ -3,7 +3,6 @@
 #include "exercicio4.h"
 #define PII 3.1415
 
-
 struct circulo
 {
     float raio;
